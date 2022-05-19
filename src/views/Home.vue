@@ -5,6 +5,7 @@
   <div class="ddd">ddd</div>
   <div class="eee">eee</div>
   <div class="copy3">copy3更改</div>
+  <div class="remote">remote</div>
 </template>
 
 <script>
