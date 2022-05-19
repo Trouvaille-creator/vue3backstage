@@ -3,6 +3,7 @@
   <div class="bbb">bbb</div>
   <div class="ccc">ccc</div>
   <div class="ddd">ddd</div>
+  <div class="eee">eee</div>
 </template>
 
 <script>
